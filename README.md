@@ -1,0 +1,1 @@
+Since I recieved feedback about separating and oraganizing my classes into different files, I made different modules for each of the classes needed. I then made a main where all the user interactions happen. Put together, this program then allows one to check out books, or added certain books and authors to the library database.
